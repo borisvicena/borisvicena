@@ -1,5 +1,3 @@
-Hey, I'm Boris
+👋 Hey, I'm Boris
 
-### Contact me
-* **Linkedin** - [@borisvicena](https://www.linkedin/in/borisvicena/)
-* **E-mail** - boris.vicena@gmail.com
+You can reach me on [LinkedIn](https://www.linkedin/in/borisvicena/), [TikTok](https://www.tiktok.com/@borisvicena) or [Instagram](https://www.instagram.com/borisvicena/).
