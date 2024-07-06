@@ -10,5 +10,5 @@
     <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/></a>
   <a href="https://www.youtube.com/channel/UClg67C2FSkeHy_-sWQIbbsw" style="border: none;">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
-  <h1>hey there 👋</h1>
+  <h1>Welcome 👋</h1>
 </div
