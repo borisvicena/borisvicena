@@ -1,7 +1,7 @@
 ## Hi, I'm Boris 👨‍💻 - @borisvicena
 
 💻 ▪︎ IT student passionate about technology, learning new things and creating content.<br>
-🚀 ▪︎ Developed and contributed to various projects from small utilities to more complex systems (Websites, Apps, Games and etc.).<br>
+🚀 ▪︎ Developed multiple projects from small utilities to more complex systems (Websites, Apps, Games and etc.).<br>
 🌱 ▪︎ Currently learning React with Nextjs.<br>
 
 #### Tech stack
