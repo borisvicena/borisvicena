@@ -24,7 +24,7 @@
 #### Where to find me 
 <div class="socials">
   <a href="https://github.com/borisvicena" target="_blank"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UClg67C2FSkeHy_-sWQIbbsw" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" target="_blank"></a>
+  <a href="https://www.youtube.com/@borisvicena" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" target="_blank"></a>
   <a href="https://instagram.com/borisvicena" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" target="_blank"></a>
   <a href="https://www.linkedin.com/in/borisvicena/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="_blank"></a>
   <a href="https://www.tiktok.com/@borisvicena" target="_blank"><img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge" target="_blank"></a>
