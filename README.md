@@ -1,4 +1,4 @@
-## Hi, I'm Boris 👨‍💻 - @borisvicena
+## Hi, I'm Boris 👨‍💻
 
 💻 ▪︎ IT student passionate about technology, learning new things and creating content.<br>
 🚀 ▪︎ Developing mostly Web Applications with attention to UI/UX.<br>
