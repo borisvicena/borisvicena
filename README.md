@@ -1,5 +1,5 @@
 # 💫 About Me:
-SoBware development student with 5-year track record of coding experience. Passionate about building intui$ve user<br>interfaces and web applica$ons. Hands-on experience in many diﬀerent languages and technologies but mostly<br>building apps in React, TypeScript and modern frontend technologies. Proven ability to manage diverse projects and<br>quickly adapt to new technologies and coding paradigms. Eager to contribute fresh ideas, collaborate with like-minded<br>people and grow alongside talented developers in dynamic tech environment. Noteworthy founder of GoSocial,<br>successfully managed social media strategies for 5+ clients.
+Software development student with 5-year track record of coding experience. Passionate about building intuitivd user interfaces and web applications. Hands-on experience in many diﬀerent languages and technologies but mostly building apps in React, TypeScript and modern frontend technologies. Proven ability to manage diverse projects and quickly adapt to new technologies and coding paradigms. Eager to contribute fresh ideas, grow my coding skills and collaborate with like-minded people.
 
 
 ## 🌐 Socials:
@@ -11,7 +11,7 @@ SoBware development student with 5-year track record of coding experience. Passi
 ---
 [![](https://visitcount.itsvg.in/api?id=borisvicena&icon=1&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 👉 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/borisvicena) 
 
   
